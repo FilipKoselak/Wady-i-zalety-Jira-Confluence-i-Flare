@@ -1,5 +1,3 @@
-# Wady-i-zalety-Jira-Confluence-i-Flare
-Wady i zalety Jira Confluence i Flare
 
 <!-- Headings -->
 # Wady i zalety dokumentacji Confluence/JIRA/Flare
